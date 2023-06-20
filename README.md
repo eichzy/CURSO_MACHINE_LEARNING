@@ -1,5 +1,7 @@
 # CURSO_MACHINE_LEARNING
 ## DÍA 1 - LUNES
-✨ PYTHON NOTEBOOK: Python Notebook  
+✨ PYTHON NOTEBOOK: Python Notebook 
+
 ✨ CONDICIONALES: Condicionales
+
 ✨ INTRODUCCIÓN PANDAS: Pandas
